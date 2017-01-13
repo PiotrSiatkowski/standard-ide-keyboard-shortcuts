@@ -8,7 +8,7 @@
 
 <p align="justify">In IntelliJ Idea for example (which you should use in your daily job, really :)) you have Alt + 1 for Project View, but Ctrl + Shift + F12 for Terminal, what is kinda weird as both of them represent subwindow. How can I remember over 200 shortcuts that are barely related to each other? (and trust me, I tried)</p>
 
-<p salign="justify">So I came up with this idea to create universal list of shortcuts that are not only easy to remember but also pleasent to use. I dream about time, when keyboard shortcuts will be standarized. Just imagine. All cool functions available just like that.</p>
+<p align="justify">So I came up with this idea to create universal list of shortcuts that are not only easy to remember but also pleasent to use. I dream about time, when keyboard shortcuts will be standarized. Just imagine. All cool functions available just like that.</p>
 
 <p align="justify">I exported keymap scheme described below right from my IntelliJ installation, so feel free to download it and use if you like it. I would be more then excited to hear any feedback and objections.</p>
 
