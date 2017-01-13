@@ -1,28 +1,28 @@
 # The Idea
 
-Recently I have got this rare opportunity to work with two development environments simultaneously. Everything was going fine until it came to debugging. The server was written in C/C++ so I used Visual Studio 2015 to work it out, while the access console code was based on good old Java, in which case I used IntelliJ Idea. You can only imagine what a nightmare it was to check everytime what shortcut was binded to which action when the program reached some breakpoint.
+<p align="justify">Recently I have got this rare opportunity to work with two development environments simultaneously. Everything was going fine until it came to debugging. The server was written in C/C++ so I used Visual Studio 2015 to work it out, while the access console code was based on good old Java, in which case I used IntelliJ Idea. You can only imagine what a nightmare it was to check everytime what shortcut was binded to which action when the program reached some breakpoint.</p>
 
-Why on earth they cannot stick to the one keymap scheme on every IDE when the actions they provide do exacly the same stuff?
+<p align="justify">Why on earth they cannot stick to the one keymap scheme on every IDE when the actions they provide do exacly the same stuff?</p>
 
-Things get even worse when you realize that default shortcuts (those, which I would like to use can be described in hundreads) are very close to being random. 
+<p align="justify">Things get even worse when you realize that default shortcuts (those, which I would like to use can be described in hundreads) are very close to being random.</p> 
 
-In IntelliJ Idea for example (which you should use in your daily job, really :)) you have Alt + 1 for Project View, but Ctrl + Shift + F12 for Terminal, what is kinda weird as both of them represent subwindow. How can I remember over 200 shortcuts that are barely related to each other? (and trust me, I tried)
+<p align="justify">In IntelliJ Idea for example (which you should use in your daily job, really :)) you have Alt + 1 for Project View, but Ctrl + Shift + F12 for Terminal, what is kinda weird as both of them represent subwindow. How can I remember over 200 shortcuts that are barely related to each other? (and trust me, I tried)</p>
 
-So I came up with this idea to create universal list of shortcuts that are not only easy to remember but also pleasent to use. I dream about time, when keyboard shortcuts will be standarized. Just imagine. All cool functions available just like that.
+<p salign="justify">So I came up with this idea to create universal list of shortcuts that are not only easy to remember but also pleasent to use. I dream about time, when keyboard shortcuts will be standarized. Just imagine. All cool functions available just like that.</p>
 
-I exported keymap scheme described below right from my IntelliJ installation, so feel free to download it and use if you like it. I would be more then excited to hear any feedback and objections.
+<p align="justify">I exported keymap scheme described below right from my IntelliJ installation, so feel free to download it and use if you like it. I would be more then excited to hear any feedback and objections.</p>
 
-I have been working with these shortcuts for a while now, but I know some changes may be done to make it even more powerful.
+<p salign="justify">I have been working with these shortcuts for a while now, but I know some changes may be done to make it even more powerful.</p>
 
 # How is it built?
 
-Well, I often feel quite stupid and I am not the best at remembering things. That's why I said to myself - "Divide all shortcuts in categories and make them general and simple so that most of IDEs can adopt them."
+<p align="justify">Well, I often feel quite stupid and I am not the best at remembering things. That's why I said to myself - "Divide all shortcuts in categories and make them general and simple so that most of IDEs can adopt them."</p>
 
-We often use non-numeric keybaords (e.g in laptops). This is the reason that any shortcut containing key from numeric part of keyboard is not allowed.
+<p align="justify">We often use non-numeric keybaords (e.g in laptops). This is the reason that any shortcut containing key from numeric part of keyboard is not allowed.</p>
 
-I am human and although I have five fingers per hand I don't wanna to use them all at the same time. So every shortcut can be composed of one main key and at most two functional keys. Sorry, I wouldn't remember G + Ctrl + Shift + Alt + "God knows what else" anyway. Ok, there is an exception from this (custom tools view windows).
+<p align="justify">I am human and although I have five fingers per hand I don't wanna to use them all at the same time. So every shortcut can be composed of one main key and at most two functional keys. Sorry, I wouldn't remember G + Ctrl + Shift + Alt + "God knows what else" anyway. Ok, there is an exception from this (custom tools view windows).</p>
 
-There are only three functional keys allowed. Ctrl like "control behaviour". Shift like "shift behaviour". Alt like "alternate behaviour". Only shortcuts allowed without using functional keys are F1 - F12. Common, these keys were designed to serve as function keys, am I right?.
+<p align="justify">There are only three functional keys allowed. Ctrl like "control behaviour". Shift like "shift behaviour". Alt like "alternate behaviour". Only shortcuts allowed without using functional keys are F1 - F12. Common, these keys were designed to serve as function keys, am I right?.</p>
 
 ---
 
@@ -33,8 +33,8 @@ There are only three functional keys allowed. Ctrl like "control behaviour". Shi
 |**F1**|
 |**F2**|Set value|
 |**F3**|Build project|**Shift + F3**|Rebuild project|
-|**F4**|Run/Rerun|**Shift + F4**|Terminate|**Shift + Alt + F4**|Choose what to run|
-|**F5**|Debug|**Shift + F5**|Pause|**Shift + Alt + F5**|Choose what to debug|
+|**F4**|Run/Rerun|**Shift + F4**|Terminate|**Shift + Alt + F4**|Choose to run|
+|**F5**|Debug|**Shift + F5**|Pause|**Shift + Alt + F5**|Choose to debug|
 |**F6**|Run configurations|**Shift + F6**|Process list|
 |**F7**|
 |**F8**|
