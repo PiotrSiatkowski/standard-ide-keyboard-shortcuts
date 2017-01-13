@@ -1,0 +1,1 @@
+"# standard-ide-keyboard-shortcuts" 
