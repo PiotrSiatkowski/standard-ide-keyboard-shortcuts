@@ -20,7 +20,7 @@ Well, I often feel quite stupid and I am not the best at remembering things. Tha
 
 We often use non-numeric keybaords (e.g in laptops). This is the reason that any shortcut containing key from numeric part of keyboard is not allowed.
 
-I am human and although I have five fingers per hand I don't wanna to use them all at the same time. So every shortcut can be composed of one main key and at most two functional keys. Sorry, I wouldn't remember G + Ctrl + Shift + Alt + "God knows what else" anyway.
+I am human and although I have five fingers per hand I don't wanna to use them all at the same time. So every shortcut can be composed of one main key and at most two functional keys. Sorry, I wouldn't remember G + Ctrl + Shift + Alt + "God knows what else" anyway. Ok, there is an exception from this (custom tools view windows).
 
 There are only three functional keys allowed. Ctrl like "control behaviour". Shift like "shift behaviour". Alt like "alternate behaviour". Only shortcuts allowed without using functional keys are F1 - F12. Common, these keys were designed to serve as function keys, am I right?.
 
@@ -112,7 +112,7 @@ There are only three functional keys allowed. Ctrl like "control behaviour". Shi
 |**Alt + 6**|Push changes|
 |**Alt + 7**|Unstash changes|
 |**Alt + 8**|Fetch changes|
-|**Alt + 9**|Pull chnages|
+|**Alt + 9**|Pull changes|
 
 ---
 
@@ -165,7 +165,7 @@ There are only three functional keys allowed. Ctrl like "control behaviour". Shi
 |**Ctrl + Enter**|Perform IDE suggested action|**Ctrl + Shift + Enter**|Insert empty line|
 |**Ctrl + Backspace**|Delete symbol to cursor|**Ctrl + Shift + Backspace**|Last edit location|
 |**Ctrl + Delete**|Delete symbol from cursor|			
-|**Ctrl + Home**|Move caret to the end|**Ctrl + Shift + Home**|Move caret and select content|
+|**Ctrl + Home**|Move caret to the start|**Ctrl + Shift + Home**|Move caret and select content|
 |**Ctrl + End**|Back to editor|**Ctrl + Shift + End**|Move caret and select content|
 
 ---
