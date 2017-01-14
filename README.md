@@ -32,16 +32,16 @@
 |:--------|:-------------------------|:--------|:------------|:--------|:------------|
 |**F1**|
 |**F2**|Set value|
-|**F3**|Build project|**Shift + F3**|Rebuild project|
-|**F4**|Run/Rerun|**Shift + F4**|Terminate|**Shift + Alt + F4**|Choose to run|
-|**F5**|Debug|**Shift + F5**|Pause|**Shift + Alt + F5**|Choose to debug|
-|**F6**|Run configurations|**Shift + F6**|Process list|
+|**F3**|Build project|**Ctrl + F3**|Rebuild project|
+|**F4**|Run/Rerun|**Ctrl + F4**|Terminate|**Shift + Alt + F4**|Choose to run|
+|**F5**|Debug|**Ctrl + F5**|Pause|**Shift + Alt + F5**|Choose to debug|
+|**F6**|Run configurations|
 |**F7**|
 |**F8**|
-|**F9**|Line breakpoint|**Shift + F9**|Watch point|**Shift + Alt + F9**|Method breakpoint|
-|**F10**|Step over|||**Shift + Alt + F10**|Force step over|
-|**F11**|Step into|**Shift + F11**|Step out|**Shift + Alt + F11**|Force step into|
-|**F12**|Enter/Exit fullscreen|**Shift + F12**|Distraction free mode|
+|**F9**|Line breakpoint|**Ctrl + F9**|Watch point|**Shift + Alt + F9**|Method breakpoint|
+|**F10**|Step over|||**Ctrl + Alt + F10**|Force step over|
+|**F11**|Step into|**Ctrl + F11**|Step out|**Shift + Alt + F11**|Force step into|
+|**F12**|Enter/Exit fullscreen|**Ctrl + F12**|Distraction free mode|
 
 ---
 
@@ -49,17 +49,17 @@
 
 |Shortcut|Description|Shortcut|Description|
 |:--------|:-------------------------|:--------|:-------------------------|
-|**Ctrl + Shift + F1**|Project/Solution view|**Ctrl + F1**|Locate file in project view|
-|**Ctrl + Shift + F2**|Favourites|**Ctrl + F2**|Add to favourites|
+|**Ctrl + Shift + F1**|Project/Solution view|**Shift + F1**|Locate file in project view|
+|**Ctrl + Shift + F2**|Favourites|**Shift + F2**|Add to favourites|
 |**Ctrl + Shift + F3**|TODO/Task list|
-|**Ctrl + Shift + F4**|File structure view|**Ctrl + F4**|Structure dialog|
-|**Ctrl + Shift + F5**|Run/Output|
+|**Ctrl + Shift + F4**|File structure view|**Shift + F4**|Structure dialog|
+|**Ctrl + Shift + F5**|Run/Output|**Shift + F6**|Process list|
 |**Ctrl + Shift + F6**|Database view|
-|**Ctrl + Shift + F7**|Version control|**Ctrl + F7**|Repository state/Branches|
+|**Ctrl + Shift + F7**|Version control|**Shift + F7**|Repository state/Branches|
 |**Ctrl + Shift + F8**|
 |**Ctrl + Shift + F9**|Breakpoints|
 |**Ctrl + Shift + F10**|Messages|
-|**Ctrl + Shift + F11**|Bookmarks|**Ctrl + F11**|Bookmarks dialog|
+|**Ctrl + Shift + F11**|Bookmarks|**Shift + F11**|Bookmarks dialog|
 |**Ctrl + Shift + F12**|Terminal|
 
 ---
@@ -69,7 +69,7 @@
 |Shortcut|Description|Shortcut|Description|
 |:--------|:-------------------------|:--------|:-------------------------|
 |**Ctrl + Alt + F1**|Maven|
-|**Ctrl + Alt + F2**|Gulp|**Ctrl + Alt + F2**|Gulp dialog|
+|**Ctrl + Alt + F2**|Gulp|**Alt + F2**|Gulp dialog|
 |**Ctrl + Alt + F3**|
 |**Ctrl + Alt + F4**|
 |**Ctrl + Alt + F5**|
