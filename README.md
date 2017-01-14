@@ -30,8 +30,8 @@
 
 |Shortcut|Description|Shortcut|Description|Shortcut|Description|
 |:--------|:-------------------------|:--------|:------------|:--------|:------------|
-|**F1**|
-|**F2**|Set value|
+|**F1**|Enter/Exit fullscreen|**Ctrl + F12**|Distraction free mode|
+|**F2**|
 |**F3**|Build project|**Ctrl + F3**|Rebuild project|
 |**F4**|Run/Rerun|**Ctrl + F4**|Terminate|**Shift + Alt + F4**|Choose to run|
 |**F5**|Debug|**Ctrl + F5**|Pause|**Shift + Alt + F5**|Choose to debug|
@@ -39,9 +39,9 @@
 |**F7**|
 |**F8**|
 |**F9**|Line breakpoint|**Ctrl + F9**|Watch point|**Shift + Alt + F9**|Method breakpoint|
-|**F10**|Step over|||**Ctrl + Alt + F10**|Force step over|
-|**F11**|Step into|**Ctrl + F11**|Step out|**Shift + Alt + F11**|Force step into|
-|**F12**|Enter/Exit fullscreen|**Ctrl + F12**|Distraction free mode|
+|**F10**|Step over|||**Ctrl + F10**|Force step over|
+|**F11**|Step into|**Ctrl + F11**|Force step into|
+|**F12**|Step out|
 
 ---
 
