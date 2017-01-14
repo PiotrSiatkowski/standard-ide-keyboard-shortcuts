@@ -121,16 +121,16 @@
 
 |Shortcut|Description|
 |:--------|:-------------------------|
-|**Alt + 1**|Annonate|
-|**Alt + 2**|Check current revision|
-|**Alt + 3**|Show remotes|
-|**Alt + 4**|Stash changes|
-|**Alt + 5**|Commit changes|
-|**Alt + 6**|Push changes|
-|**Alt + 7**|Unstash changes|
-|**Alt + 8**|Fetch changes|
-|**Alt + 9**|Pull changes|
-|**Alt + 0**|Branches|
+|**Shift + Alt + 1**|Annonate|
+|**Shift + Alt + 2**|Check current revision|
+|**Shift + Alt + 3**|Show remotes|
+|**Shift + Alt + 4**|Stash changes|
+|**Shift + Alt + 5**|Commit changes|
+|**Shift + Alt + 6**|Push changes|
+|**Shift + Alt + 7**|Unstash changes|
+|**Shift + Alt + 8**|Fetch changes|
+|**Shift + Alt + 9**|Pull changes|
+|**Shift + Alt + 0**|Branches|
 
 ---
 
