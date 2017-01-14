@@ -53,7 +53,7 @@
 |**Ctrl + Shift + F2**|Favourites|**Shift + F2**|Add to favourites|
 |**Ctrl + Shift + F3**|TODO/Task list|
 |**Ctrl + Shift + F4**|File structure view|**Shift + F4**|Structure dialog|
-|**Ctrl + Shift + F5**|Run/Output|**Shift + F6**|Process list|
+|**Ctrl + Shift + F5**|Run/Output|**Shift + F5**|Process list|
 |**Ctrl + Shift + F6**|Database view|
 |**Ctrl + Shift + F7**|Version control|**Shift + F7**|Repository state/Branches|
 |**Ctrl + Shift + F8**|
