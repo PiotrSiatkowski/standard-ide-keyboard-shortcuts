@@ -20,7 +20,7 @@
 
 <p align="justify">We often use non-numeric keybaords (e.g in laptops). This is the reason that any shortcut containing key from numeric part of keyboard is not allowed.</p>
 
-<p align="justify">I am human and although I have five fingers per hand I don't wanna to use them all at the same time. So every shortcut can be composed of one main key and at most two functional keys. Sorry, I wouldn't remember G + Ctrl + Shift + Alt + "God knows what else" anyway. Ok, there is an exception from this (custom tools view windows).</p>
+<p align="justify">I am human and although I have five fingers per hand I don't wanna to use them all at the same time. So every shortcut can be composed of one main key and at most two functional keys. Sorry, I wouldn't remember G + Ctrl + Shift + Alt + "God knows what else" anyway.</p>
 
 <p align="justify">There are only three functional keys allowed. Ctrl like "control behaviour". Shift like "shift behaviour". Alt like "alternate behaviour". Only shortcuts allowed without using functional keys are F1 - F12. Common, these keys were designed to serve as function keys, am I right?.</p>
 
@@ -45,6 +45,44 @@
 
 ---
 
+# IDE Views
+
+|Shortcut|Description|Shortcut|Description|
+|:--------|:-------------------------|:--------|:-------------------------|
+|**Ctrl + Shift + F1**|Project/Solution view|**Ctrl + F1**|Locate file in project view|
+|**Ctrl + Shift + F2**|Favourites|**Ctrl + F2**|Add to favourites|
+|**Ctrl + Shift + F3**|TODO/Task list|
+|**Ctrl + Shift + F4**|File structure view|**Ctrl + F4**|Structure dialog|
+|**Ctrl + Shift + F5**|Run/Output|
+|**Ctrl + Shift + F6**|Database view|
+|**Ctrl + Shift + F7**|Version control|**Ctrl + F7**|Repository state/Branches|
+|**Ctrl + Shift + F8**|
+|**Ctrl + Shift + F9**|Breakpoints|
+|**Ctrl + Shift + F10**|Messages|
+|**Ctrl + Shift + F11**|Bookmarks|**Ctrl + F11**|Bookmarks dialog|
+|**Ctrl + Shift + F12**|Terminal|
+
+---
+
+# Language specific tools views (Configure yourself)
+
+|Shortcut|Description|Shortcut|Description|
+|:--------|:-------------------------|:--------|:-------------------------|
+|**Ctrl + Alt + F1**|Maven|
+|**Ctrl + Alt + F2**|Gulp|**Ctrl + Alt + F2**|Gulp dialog|
+|**Ctrl + Alt + F3**|
+|**Ctrl + Alt + F4**|
+|**Ctrl + Alt + F5**|
+|**Ctrl + Alt + F6**|
+|**Ctrl + Alt + F7**|
+|**Ctrl + Alt + F8**|
+|**Ctrl + Alt + F9**|
+|**Ctrl + Alt + F10**|
+|**Ctrl + Alt + F11**|
+|**Ctrl + Alt + F12**|
+
+---
+
 # Refactoring
 
 |Shortcut|Description|
@@ -61,25 +99,6 @@
 |**Alt + F10**|
 |**Alt + F11**|
 |**Alt + F12**|
-
----
-
-# IDE Views
-
-|Shortcut|Description|Shortcut|Description|
-|:--------|:-------------------------|:--------|:-------------------------|
-|**Ctrl + Shift + F1**|Project/Solution view|**Ctrl + F1**|Locate file in project view|
-|**Ctrl + Shift + F2**|Favourites|**Ctrl + F2**|Add to favourites|
-|**Ctrl + Shift + F3**|TODO/Task list|
-|**Ctrl + Shift + F4**|File structure view|**Ctrl + F4**|Structure dialog|
-|**Ctrl + Shift + F5**|
-|**Ctrl + Shift + F6**|Database view|
-|**Ctrl + Shift + F7**|Version control|**Ctrl + F7**|Repository state/Branches|
-|**Ctrl + Shift + F8**|Output console|
-|**Ctrl + Shift + F9**|Breakpoints|
-|**Ctrl + Shift + F10**|Navigation bar|**Ctrl + F10**|Inline navigation|
-|**Ctrl + Shift + F11**|Bookmarks|**Ctrl + F11**|Bookmarks dialog|
-|**Ctrl + Shift + F12**|Terminal|
 
 ---
 
@@ -167,25 +186,6 @@
 |**Ctrl + Delete**|Delete symbol from cursor|			
 |**Ctrl + Home**|Move caret to the start|**Ctrl + Shift + Home**|Move caret and select content|
 |**Ctrl + End**|Back to editor|**Ctrl + Shift + End**|Move caret and select content|
-
----
-
-# Language specific tools views (Configure yourself)
-
-|Shortcut|Description|Shortcut|Description|
-|:--------|:-------------------------|:--------|:-------------------------|
-|**Ctrl + Shift + Alt + F1**|Maven|
-|**Ctrl + Shift + Alt + F2**|Gulp|**Ctrl + Alt + F2**|Gulp dialog|
-|**Ctrl + Shift + Alt + F3**|
-|**Ctrl + Shift + Alt + F4**|
-|**Ctrl + Shift + Alt + F5**|
-|**Ctrl + Shift + Alt + F6**|
-|**Ctrl + Shift + Alt + F7**|
-|**Ctrl + Shift + Alt + F8**|
-|**Ctrl + Shift + Alt + F9**|
-|**Ctrl + Shift + Alt + F10**|
-|**Ctrl + Shift + Alt + F11**|
-|**Ctrl + Shift + Alt + F12**|
 
 ---
 
