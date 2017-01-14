@@ -51,14 +51,14 @@
 |:--------|:-------------------------|:--------|:-------------------------|
 |**Ctrl + Shift + F1**|Project/Solution view|**Shift + F1**|Locate file in project view|
 |**Ctrl + Shift + F2**|Favourites|**Shift + F2**|Add to favourites|
-|**Ctrl + Shift + F3**|TODO/Task list|
-|**Ctrl + Shift + F4**|File structure view|**Shift + F4**|Structure dialog|
-|**Ctrl + Shift + F5**|Run/Output|**Shift + F5**|Process list|
-|**Ctrl + Shift + F6**|Database view|
-|**Ctrl + Shift + F7**|Version control|**Shift + F7**|VCS operations|
-|**Ctrl + Shift + F8**|
+|**Ctrl + Shift + F3**|Operation results|
+|**Ctrl + Shift + F4**|Run/Output|**Shift + F4**|Process list|
+|**Ctrl + Shift + F5**|Debug|
+|**Ctrl + Shift + F6**|TODO/Task list|
+|**Ctrl + Shift + F7**|File structure view|**Shift + F7**|Structure dialog|
+|**Ctrl + Shift + F8**|Version control|**Shift + F8**|VCS operations|
 |**Ctrl + Shift + F9**|Breakpoints|
-|**Ctrl + Shift + F10**|Messages|
+|**Ctrl + Shift + F10**|Database view|
 |**Ctrl + Shift + F11**|Bookmarks|**Shift + F11**|Bookmarks dialog|
 |**Ctrl + Shift + F12**|Terminal|
 
