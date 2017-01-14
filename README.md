@@ -55,7 +55,7 @@
 |**Ctrl + Shift + F4**|File structure view|**Shift + F4**|Structure dialog|
 |**Ctrl + Shift + F5**|Run/Output|**Shift + F5**|Process list|
 |**Ctrl + Shift + F6**|Database view|
-|**Ctrl + Shift + F7**|Version control|**Shift + F7**|Repository state/Branches|
+|**Ctrl + Shift + F7**|Version control|**Shift + F7**|VCS operations|
 |**Ctrl + Shift + F8**|
 |**Ctrl + Shift + F9**|Breakpoints|
 |**Ctrl + Shift + F10**|Messages|
@@ -83,25 +83,6 @@
 
 ---
 
-# Refactoring
-
-|Shortcut|Description|
-|:--------|:-------------------------|
-|**Alt + F1**|Rename symbol|
-|**Alt + F2**|
-|**Alt + F3**|
-|**Alt + F4**|
-|**Alt + F5**|
-|**Alt + F6**|
-|**Alt + F7**|
-|**Alt + F8**|
-|**Alt + F9**|
-|**Alt + F10**|
-|**Alt + F11**|
-|**Alt + F12**|
-
----
-
 # Bookmarking
 
 |Shortcut|Description|Shortcut|Description|
@@ -119,6 +100,23 @@
 
 ---
 
+# Refactoring
+
+|Shortcut|Description|
+|:--------|:-------------------------|
+|**Ctrl + Alt + 1**|Rename symbol|
+|**Ctrl + Alt + 2**|
+|**Ctrl + Alt + 3**|
+|**Ctrl + Alt + 4**|
+|**Ctrl + Alt + 5**|
+|**Ctrl + Alt + 6**|
+|**Ctrl + Alt + 7**|
+|**Ctrl + Alt + 8**|
+|**Ctrl + Alt + 9**|
+|**Ctrl + Alt + 0**|
+
+---
+
 # Git Options
 
 |Shortcut|Description|
@@ -132,6 +130,7 @@
 |**Alt + 7**|Unstash changes|
 |**Alt + 8**|Fetch changes|
 |**Alt + 9**|Pull changes|
+|**Alt + 0**|Branches|
 
 ---
 
