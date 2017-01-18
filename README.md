@@ -37,11 +37,11 @@
 |**F5**|Debug|**Ctrl + F5**|Pause|**Shift + Alt + F5**|Choose to debug|
 |**F6**|Run configurations|
 |**F7**|
-|**F8**|
+|**F8**|Hot swap|
 |**F9**|Line breakpoint|**Ctrl + F9**|Watch point|**Shift + Alt + F9**|Method breakpoint|
-|**F10**|Step over|||**Shift + Alt + F10**|Force over|
-|**F11**|Step into|**Ctrl + F10**|Step out|**Shift + Alt + F11**|Force into|
-|**F12**|Run to cursor|||**Shift + Alt + F10**|Force to cursor|
+|**F10**|Step over|**Ctrl + F10**|Drop frame|**Shift + Alt + F10**|Force over|
+|**F11**|Step into|**Ctrl + F11**|Step out|**Shift + Alt + F11**|Force into|
+|**F12**|Run to cursor|||**Shift + Alt + F12**|Force to cursor|
 
 ---
 
