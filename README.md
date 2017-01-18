@@ -39,9 +39,9 @@
 |**F7**|
 |**F8**|
 |**F9**|Line breakpoint|**Ctrl + F9**|Watch point|**Shift + Alt + F9**|Method breakpoint|
-|**F10**|Step over|||**Shit + Alt + F10**|Force over|
+|**F10**|Step over|||**Shift + Alt + F10**|Force over|
 |**F11**|Step into|**Ctrl + F10**|Step out|**Shift + Alt + F11**|Force into|
-|**F12**|Run to cursor|||**Shit + Alt + F10**|Force to cursor|
+|**F12**|Run to cursor|||**Shift + Alt + F10**|Force to cursor|
 
 ---
 
