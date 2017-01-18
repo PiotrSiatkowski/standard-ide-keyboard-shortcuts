@@ -30,7 +30,7 @@
 
 |Shortcut|Description|Shortcut|Description|Shortcut|Description|
 |:--------|:-------------------------|:--------|:------------|:--------|:------------|
-|**F1**|Enter/Exit fullscreen|**Ctrl + F1**|Distraction free mode|
+|**F1**|Enter/Exit fullscreen|**Ctrl + F1**|Distraction free mode|**Shift + Alt + F1**|Presentation mode|
 |**F2**|
 |**F3**|Build project|**Ctrl + F3**|Rebuild project|
 |**F4**|Run/Rerun|**Ctrl + F4**|Terminate|**Shift + Alt + F4**|Choose to run|
