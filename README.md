@@ -140,7 +140,7 @@
 |:--------|:-------------------------|:--------|:------------|:--------|:------------|
 |**Ctrl + A**|Select all|**Ctrl + Shift + A**|Search action|**Ctrl + Alt + A**|Add file to index|
 |**Ctrl + B**|Toggle bookmark|
-|**Ctrl + C**|Copy selection|**Ctrl + Shift + C**|Copy path|**Ctrl + Alt + C**|Copy docs|
+|**Ctrl + C**|Copy selection|**Ctrl + Shift + C**|Copy path|
 |**Ctrl + D**|Duplicate line|**Ctrl + Shift + D**|Diff|**Ctrl + Alt + D**|Diff history|
 |**Ctrl + E**|Recent files|**Ctrl + Shift + E**|Recently edited|
 |**Ctrl + F**|Find in file|**Ctrl + Shift + F**|Find in path|**Ctrl + Alt + F**|Format code|
