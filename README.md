@@ -105,8 +105,8 @@
 |Shortcut|Description|
 |:--------|:-------------------------|
 |**Ctrl + Alt + 1**|Rename symbol|
-|**Ctrl + Alt + 2**|
-|**Ctrl + Alt + 3**|
+|**Ctrl + Alt + 2**|Rename file|
+|**Ctrl + Alt + 3**|Change signature|
 |**Ctrl + Alt + 4**|
 |**Ctrl + Alt + 5**|
 |**Ctrl + Alt + 6**|
