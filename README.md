@@ -175,8 +175,8 @@
 |:--------|:-------------------------|:--------|:------------|
 |**Ctrl + Right**|Move right by symbols|**Ctrl + Shift + Right**|Select symbol to the right|
 |**Ctrl + Left**|Move left by symbols|**Ctrl + Shift + Left**|Select symbol to the left|
-|**Ctrl + Up**|Scroll editor up|**Ctrl + Shift + Up**|Switch line, block, method up or move one block to another|
-|**Ctrl + Down**|Scroll editor down|**Ctrl + Shift + Down**|Switch line, block, method down or move one block to another|
+|**Ctrl + Up**|Scroll editor up|**Ctrl + Shift + Up**|Switch line, block or method up|
+|**Ctrl + Down**|Scroll editor down|**Ctrl + Shift + Down**|Switch line, block or method down|
 |**Ctrl + Insert**|Insert new file|**Ctrl + Shift + Insert**|Open file in new window|
 |**Ctrl + Space**|Code completion|**Ctrl + Shift + Space**|Intelligent completion|
 |**Ctrl + Tab**|Switcher|
