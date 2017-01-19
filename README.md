@@ -180,7 +180,7 @@
 |**Ctrl + Insert**|Insert new file|**Ctrl + Shift + Insert**|Open file in new window|
 |**Ctrl + Space**|Code completion|**Ctrl + Shift + Space**|Intelligent completion|
 |**Ctrl + Tab**|Switcher|
-|**Ctrl + Enter**|Perform IDE suggested action|**Ctrl + Shift + Enter**|Insert empty line|
+|**Ctrl + Enter**|Spli line|**Ctrl + Shift + Enter**|Perform IDE suggested action|
 |**Ctrl + Backspace**|Delete symbol to cursor|**Ctrl + Shift + Backspace**|Last edit location|
 |**Ctrl + Delete**|Delete symbol from cursor|			
 |**Ctrl + Home**|Move caret to the start|**Ctrl + Shift + Home**|Move caret and select content|
