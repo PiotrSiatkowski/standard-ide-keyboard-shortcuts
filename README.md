@@ -153,7 +153,7 @@
 |**Ctrl + M**|Move to cursor|
 |**Ctrl + N**|Navigate to class|**Ctrl + Shift + N**|Navigate to file|**Ctrl + Alt + N**|To symbol|
 |**Ctrl + O**|Override method|**Ctrl + Shift + O**|Optimize imports|
-|**Ctrl + P**|Check parameters|
+|**Ctrl + P**|Check parameters|||**Ctrl + Alt + P**|Prettify|
 |**Ctrl + R**|Replace in file|**Ctrl + Shift + R**|Replace in path|**Ctrl + Alt + R**|Refactor this|
 |**Ctrl + Q**|Quick documentation|**Ctrl + Shift + Q**|Quick definition|**Ctrl + Alt + Q**|Quick type|
 |**Ctrl + S**|Save file|**Ctrl + Shift + S**|Show usages|**Ctrl + Alt + S**|Show advanced|
