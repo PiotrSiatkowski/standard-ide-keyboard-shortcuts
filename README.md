@@ -35,7 +35,7 @@
 |**F3**|Build project|**Ctrl + F3**|Rebuild project|
 |**F4**|Run/Rerun|**Ctrl + F4**|Terminate|**Shift + Alt + F4**|Choose to run|
 |**F5**|Debug|**Ctrl + F5**|Pause|**Shift + Alt + F5**|Choose to debug|
-|**F6**|Run configurations|
+|**F6**|With Coverage|||**Shift + Alt + F6**|Run configurations|
 |**F7**|
 |**F8**|Hot swap|
 |**F9**|Line breakpoint|**Ctrl + F9**|Watch point|**Shift + Alt + F9**|Method breakpoint|
