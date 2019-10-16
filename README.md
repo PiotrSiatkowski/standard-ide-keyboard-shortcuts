@@ -149,7 +149,7 @@
 |**Ctrl + I**|Implement methods|**Ctrl + Shift + I**|Implementations|
 |**Ctrl + J**|Join lines|
 |**Ctrl + K**|
-|**Ctrl + L**|Localize/Navigate|**Ctrl + Shitf + L**|Localize/Navigate bar|
+|**Ctrl + L**|Localize/Navigate|**Ctrl + Shitf + L**|Localize/Navigate bar|**Ctrl + Alt + L**|Sort lines|
 |**Ctrl + M**|Move to cursor|
 |**Ctrl + N**|Navigate to class|**Ctrl + Shift + N**|Navigate to file|**Ctrl + Alt + N**|To symbol|
 |**Ctrl + O**|Override method|**Ctrl + Shift + O**|Optimize imports|
